@@ -1,4 +1,5 @@
 # PurePursuitSim
+This Repo contians C++ code for simulating the Pure Pursuit Trajectory Following Algorithm for a Robot. It allows a Robot to follow a path even if it deviates from the desired trajectory; it can recover from distrubances.
 
 Linux:
   1. Download this project
